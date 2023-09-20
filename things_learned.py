@@ -11,5 +11,17 @@ python3.10 -m pip install yfinance
 
 Use can use df.tail() to get the last items
 
+Sep 20, 2023
+
+Since matplotlib.finance has been deprecated
+python3.10 -m pip install mplfinance 
+
+You can do this to access old mplfinance 
+from mplfinance.original_flavor import candlestick_ohlc 
+BUT
+mplfinance.plot() # defaults to ohlc
+
+
+
 
 '''
