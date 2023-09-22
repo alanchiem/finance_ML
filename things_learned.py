@@ -21,7 +21,11 @@ from mplfinance.original_flavor import candlestick_ohlc
 BUT
 mplfinance.plot() # defaults to ohlc
 
+Sep 22, 2023
 
+You don't need to pip install pickle
+
+python's strip function is useful to truncate beginning and ends of strings
 
 
 '''

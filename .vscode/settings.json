@@ -1,8 +1,18 @@
 {
     "cSpell.words": [
+        "colorup",
         "datareader",
+        "eugenefdscodes",
+        "figratio",
+        "figscale",
         "ggplot",
+        "mdates",
+        "mplfinance",
+        "ohlc",
+        "rowspan",
+        "sharex",
         "TSLA",
-        "yfinance"
+        "yfinance",
+        "ylabel"
     ]
 }
