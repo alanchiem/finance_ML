@@ -21,7 +21,7 @@ def save_sp500_tickers():
     with open("sp500tickers.pickle", "wb") as f: 
         pickle.dump(tickers, f)
 
-    print(tickers)
+    # print(tickers)
 
     return tickers
 
