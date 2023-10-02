@@ -1,3 +1,8 @@
 # finance_ML
 
-Some tutorials that I'm taking knowledge from are Sentdex's playlist on finance with python and TradeOptionsWithMe's playlist on algo-trading.
+Some resources that I'm using are 
+
+* Sentdex's playlist on finance with python
+* TradeOptionsWithMe's playlist on algo-trading
+* QuantConnect
+* Quanpedia
